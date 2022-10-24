@@ -1,0 +1,70 @@
+{
+    "version": "1.0.0",
+    "levels": [
+        2,
+        5,
+        8
+    ],
+    "datas": [
+        {
+            "lang": "english",
+            "main": {
+                "titleText": "DO YOU WANT TO RATE?",
+                "bodyText": "YOU CAN BE PART OF THE GAME DEVELOPMENT PROCESS WITH RATING THE GAME.\n\n<color='#c6c6c6'>HOW;</color>\nIS THERE A MODEL YOU WOULD LIKE TO ADD TO THE GAME?<color='#3CCF4E'>\nJUST WRITE AS REVIEW</color>",
+                "yesButtonText": "YES",
+                "noButtonText": "NO",
+                "laterButtonText": "REMIND LATER"
+            },
+            "survey": {
+                "titleText": "DO YOU LIKE GAME?\n<color='#c6c6c6'><i><size=30>(Not redirect store)</size></i></color>",
+                "yesButtonText": "YES",
+                "noButtonText": "NO"
+            }
+        },
+        {
+            "lang": "turkish",
+            "main": {
+                "titleText": "DEĞERLENDİRMEK İSTER MİSİN?",
+                "bodyText": "OYUNUN GELİŞTİRMESİNDE SEN DE ROL ALABİLİRSİN.\n\n<color='#c6c6c6'>NASIL MI;</color>\nOYUNA EKLENMESİNİ İSTEDİĞİN ARABA MI VAR?<color='#3CCF4E'>\nSADECE BİZE YAZMAN YETERLİ</color>",
+                "yesButtonText": "EVET",
+                "noButtonText": "HAYIR",
+                "laterButtonText": "SONRA HATIRLAT"
+            },
+            "survey": {
+                "titleText": "OYUNU BEĞENDİN Mİ?\n<color='#c6c6c6'><i><size=30>(Markete yönlendirmez)</size></i></color>",
+                "yesButtonText": "EVET",
+                "noButtonText": "HAYIR"
+            }
+        },
+        {
+            "lang": "portuguese",
+            "main": {
+                "titleText": "VOCÊ QUER AVALIAR??",
+                "bodyText": "VOCÊ PODE FAZER PARTE DO PROCESSO DE DESENVOLVIMENTO DO JOGO AVALIANDO O JOGO.\n\n<color='#c6c6c6'>COMO;</color>\nHÁ UM MODELO QUE VOCÊ GOSTARIA DE ADICIONAR AO JOGO?<color='#3CCF4E'>\nAPENAS ESCREVA COMO REVISÃO</color>",
+                "yesButtonText": "SIM",
+                "noButtonText": "NÃO",
+                "laterButtonText": "MAIS TARDE"
+            },
+            "survey": {
+                "titleText": "VOCÊ GOSTA DE JOGO?\n<color='#c6c6c6'><i><size=30>(Não redireciona a loja)</size></i></color>",
+                "yesButtonText": "SIM",
+                "noButtonText": "NÃO"
+            }
+        },
+        {
+            "lang": "indonesian",
+            "main": {
+                "titleText": "APAKAH ANDA INGIN MEMBERI PERINGKAT?",
+                "bodyText": "ANDA DAPAT MENJADI BAGIAN DARI PROSES PENGEMBANGAN GAME DENGAN RATING GAME.\n\n<color='#c6c6c6'>BAGAIMANA;</color>\nAPAKAH ADA MODEL YANG INGIN ANDA TAMBAHKAN KE GAME?<color='#3CCF4E'>\nHANYA TULIS SEBAGAI ULASAN</color>",
+                "yesButtonText": "YA",
+                "noButtonText": "TIDAK",
+                "laterButtonText": "NANTI"
+            },
+            "survey": {
+                "titleText": "APAKAH ANDA SUKA PERMAINAN?\n<color='#c6c6c6'><i><size=30>(Tidak mengalihkan toko)</size></i></color>",
+                "yesButtonText": "YA",
+                "noButtonText": "TIDAK"
+            }
+        }
+    ]
+}

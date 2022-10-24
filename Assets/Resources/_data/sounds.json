@@ -1,0 +1,35 @@
+{
+    "version": "1.0.0",
+    "sounds": [
+        {
+            "name": "tap",
+            "prefabName": "tap-1",
+            "type": 0,
+            "isLoop": false
+        },
+        {
+            "name": "theme",
+            "prefabName": "theme-1",
+            "type": 1,
+            "isLoop": false
+        },
+        {
+            "name": "repair-1",
+            "prefabName": "repair-1",
+            "type": 0,
+            "isLoop": false
+        },
+        {
+            "name": "repair-2",
+            "prefabName": "repair-2",
+            "type": 0,
+            "isLoop": false
+        },
+        {
+            "name": "spin-wheel-1",
+            "prefabName": "spin-wheel-1",
+            "type": 0,
+            "isLoop": true
+        }
+    ]
+}

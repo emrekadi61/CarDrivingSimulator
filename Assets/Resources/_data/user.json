@@ -1,0 +1,30 @@
+{
+    "id": "000000",
+    "username": "user123456",
+    "boughtedNoAds": false,
+    "gameData": {
+        "dollar": 0,
+        "diamond": 10,
+        "plate": {
+            "text": "",
+            "textColor": "111111",
+            "baseColor": "FFFFFF"
+        },
+        "carIndex": 0,
+        "settings": {
+            "qualityLevel": 3,
+            "controllerType": 0,
+            "musicLevel": 0.5,
+            "fxLevel": 0.5,
+            "haptic": true
+        },
+        "statistics": {
+            "experience": 0,
+            "trip": 0,
+            "highSpeedTrip": 0,
+            "totalDrift": 0,
+            "bestDrift": 0
+        },
+        "cars": []
+    }
+}

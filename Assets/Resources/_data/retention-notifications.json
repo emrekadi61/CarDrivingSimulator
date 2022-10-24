@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "notifications": [
+        {
+            "title": "Hey Driver, Let's Drive!",
+            "body": "Come and show us you skills.",
+            "icon": "retention_1",
+            "hours": 18,
+            "minutes": -1,
+            "seconds": -1
+        },
+        {
+            "title": "Hey Driver, Let's Drive!",
+            "body": "Come and show us you skills.",
+            "icon": "retention_2",
+            "hours": 26,
+            "minutes": -1,
+            "seconds": -1
+        },
+        {
+            "title": "Hey Driver, We Miss You!",
+            "body": "Your car is rusting. Come and give the remunerate of do justice of your car.",
+            "icon": "retention_3",
+            "hours": 36,
+            "minutes": -1,
+            "seconds": -1
+        }
+    ]
+}

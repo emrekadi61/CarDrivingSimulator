@@ -1,0 +1,71 @@
+{
+    "version": "1.0.0",
+    "objects": [
+        {
+            "id": "com.zekgames.cardrivingsim2022.no_ads",
+            "title": "NO ADS",
+            "icon": "no_ads-color",
+            "price": {
+                "type": -1,
+                "amount": 0
+            },
+            "description": "REMOVE ADS!",
+            "consumable": false
+        },
+        {
+            "id": "com.zekgames.cardrivingsim2022.get_dollar_10k",
+            "title": "DOLLARS",
+            "icon": "dollar_1-color",
+            "price": {
+                "type": 0,
+                "amount": 10000
+            },
+            "description": "",
+            "consumable": true
+        },
+        {
+            "id": "com.zekgames.cardrivingsim2022.get_dollar_100k",
+            "title": "DOLLAR RICH",
+            "icon": "dollar_2-color",
+            "price": {
+                "type": 0,
+                "amount": 100000
+            },
+            "description": "",
+            "consumable": true
+        },
+        {
+            "id": "com.zekgames.cardrivingsim2022.get_dollar_1m",
+            "title": "MILLIONER",
+            "icon": "dollar_3-color",
+            "price": {
+                "type": 0,
+                "amount": 1000000
+            },
+            "description": "",
+            "consumable": true
+        },
+        {
+            "id": "com.zekgames.cardrivingsim2022.get_diamond_100",
+            "title": "DIAMONDSMITH",
+            "icon": "diamond_1-color",
+            "price": {
+                "type": 1,
+                "amount": 100
+            },
+            "description": "",
+            "consumable": true
+        },
+        {
+            "id": "com.zekgames.cardrivingsim2022.get_diamond_1k",
+            "title": "DIAMOND RICH",
+            "icon": "diamond_2-color",
+            "price": {
+                "type": 1,
+                "amount": 1000
+            },
+            "description": "",
+            "consumable": true
+        }
+    ]
+}

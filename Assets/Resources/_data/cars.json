@@ -1,0 +1,587 @@
+{
+    "version": "1.0.0",
+    "cars": [
+        {
+            "id": "00",
+            "brand": "Mercedes-Benz",
+            "model": "E-Series",
+            "chasisName": "w124",
+            "prefabName": "mercedes-w124",
+            "pointFactor": 1,
+            "price": {
+                "type": 0,
+                "amount": 10000
+            },
+            "costs": {
+                "engine": {
+                    "type": 0,
+                    "amount": 500
+                },
+                "transmission": {
+                    "type": 0,
+                    "amount": 500
+                },
+                "steering": {
+                    "type": 0,
+                    "amount": 500
+                },
+                "brakes": {
+                    "type": 0,
+                    "amount": 500
+                },
+                "body": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "rim": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "window": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "suspension": {
+                    "type": 0,
+                    "amount": 1000
+                }
+            },
+            "rimIndex": 0,
+            "axles": {
+                "front": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                },
+                "rear": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                }
+            },
+            "upgrades": {
+                "engine": 0,
+                "transmission": 0,
+                "steering": 0,
+                "brakes": 0
+            },
+            "upgradeIncrements": {
+                "engine": 50,
+                "transmission": 0.025,
+                "steering": 0.025,
+                "brakes": 250
+            },
+            "specifications": {
+                "engineTorque": 450,
+                "transmission": 0.45,
+                "steering": 0.3,
+                "brakeTorque": 3500
+            },
+            "visual": {
+                "body": {
+                    "color": "030303",
+                    "tint": 0.5
+                },
+                "bodyDetail": {
+                    "color": "2E2E2E",
+                    "tint": 0.5
+                },
+                "rim": {
+                    "color": "676767",
+                    "tint": 0.5
+                },
+                "window": {
+                    "color": "1E1E1E",
+                    "tint": 0.7
+                },
+                "texturePath": "",
+                "decals": []
+            }
+        },
+        {
+            "id": "01",
+            "brand": "Nissan",
+            "model": "Skyline",
+            "chasisName": "R33",
+            "prefabName": "nissan-skyline-r33",
+            "pointFactor": 1.25,
+            "price": {
+                "type": 0,
+                "amount": 25000
+            },
+            "costs": {
+                "engine": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "transmission": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "steering": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "brakes": {
+                    "type": 0,
+                    "amount": 1000
+                },
+                "body": {
+                    "type": 0,
+                    "amount": 1500
+                },
+                "rim": {
+                    "type": 0,
+                    "amount": 1500
+                },
+                "window": {
+                    "type": 0,
+                    "amount": 1500
+                },
+                "suspension": {
+                    "type": 0,
+                    "amount": 1500
+                }
+            },
+            "rimIndex": 5,
+            "axles": {
+                "front": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                },
+                "rear": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                }
+            },
+            "upgrades": {
+                "engine": 0,
+                "transmission": 0,
+                "steering": 0,
+                "brakes": 0
+            },
+            "upgradeIncrements": {
+                "engine": 60,
+                "transmission": 0.03,
+                "steering": 0.04,
+                "brakes": 300
+            },
+            "specifications": {
+                "engineTorque": 600,
+                "transmission": 0.4,
+                "steering": 0.4,
+                "brakeTorque": 4000
+            },
+            "visual": {
+                "body": {
+                    "color": "636363",
+                    "tint": 0.5
+                },
+                "bodyDetail": {
+                    "color": "",
+                    "tint": 0
+                },
+                "rim": {
+                    "color": "676767",
+                    "tint": 0.5
+                },
+                "window": {
+                    "color": "1E1E1E",
+                    "tint": 0.7
+                },
+                "texturePath": "",
+                "decals": []
+            }
+        },
+        {
+            "id": "04",
+            "brand": "Mini Cooper",
+            "model": "Cooper S",
+            "chasisName": "R56",
+            "prefabName": "mini-cooper-r56",
+            "pointFactor": 1.3,
+            "price": {
+                "type": 0,
+                "amount": 30000
+            },
+            "costs": {
+                "engine": {
+                    "type": 0,
+                    "amount": 1250
+                },
+                "transmission": {
+                    "type": 0,
+                    "amount": 1250
+                },
+                "steering": {
+                    "type": 0,
+                    "amount": 1250
+                },
+                "brakes": {
+                    "type": 0,
+                    "amount": 1250
+                },
+                "body": {
+                    "type": 0,
+                    "amount": 1750
+                },
+                "rim": {
+                    "type": 0,
+                    "amount": 1750
+                },
+                "window": {
+                    "type": 0,
+                    "amount": 1750
+                },
+                "suspension": {
+                    "type": 0,
+                    "amount": 1750
+                }
+            },
+            "rimIndex": 8,
+            "axles": {
+                "front": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                },
+                "rear": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                }
+            },
+            "upgrades": {
+                "engine": 0,
+                "transmission": 0,
+                "steering": 0,
+                "brakes": 0
+            },
+            "upgradeIncrements": {
+                "engine": 65,
+                "transmission": 0.0325,
+                "steering": 0.04,
+                "brakes": 300
+            },
+            "specifications": {
+                "engineTorque": 650,
+                "transmission": 0.35,
+                "steering": 0.55,
+                "brakeTorque": 4000
+            },
+            "visual": {
+                "body": {
+                    "color": "8A0000",
+                    "tint": 0.6
+                },
+                "bodyDetail": {
+                    "color": "202020",
+                    "tint": 0.75
+                },
+                "rim": {
+                    "color": "676767",
+                    "tint": 0.5
+                },
+                "window": {
+                    "color": "1E1E1E",
+                    "tint": 0.7
+                },
+                "texturePath": "",
+                "decals": []
+            }
+        },
+        {
+            "id": "05",
+            "brand": "BMW",
+            "model": "1 Series M",
+            "chasisName": "1M",
+            "prefabName": "bmw-1m",
+            "pointFactor": 1.3,
+            "price": {
+                "type": 0,
+                "amount": 35000
+            },
+            "costs": {
+                "engine": {
+                    "type": 0,
+                    "amount": 2000
+                },
+                "transmission": {
+                    "type": 0,
+                    "amount": 2000
+                },
+                "steering": {
+                    "type": 0,
+                    "amount": 2000
+                },
+                "brakes": {
+                    "type": 0,
+                    "amount": 2000
+                },
+                "body": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "rim": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "window": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "suspension": {
+                    "type": 0,
+                    "amount": 2500
+                }
+            },
+            "rimIndex": 9,
+            "axles": {
+                "front": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                },
+                "rear": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                }
+            },
+            "upgrades": {
+                "engine": 0,
+                "transmission": 0,
+                "steering": 0,
+                "brakes": 0
+            },
+            "upgradeIncrements": {
+                "engine": 65,
+                "transmission": 0.035,
+                "steering": 0.045,
+                "brakes": 325
+            },
+            "specifications": {
+                "engineTorque": 675,
+                "transmission": 0.36,
+                "steering": 0.45,
+                "brakeTorque": 4300
+            },
+            "visual": {
+                "body": {
+                    "color": "878787",
+                    "tint": 0.5
+                },
+                "bodyDetail": {
+                    "color": "",
+                    "tint": 0
+                },
+                "rim": {
+                    "color": "676767",
+                    "tint": 0.5
+                },
+                "window": {
+                    "color": "1E1E1E",
+                    "tint": 0.7
+                },
+                "texturePath": "",
+                "decals": []
+            }
+        },
+        {
+            "id": "02",
+            "brand": "Ferrari",
+            "model": "Enzo",
+            "chasisName": "enzo",
+            "prefabName": "ferrari-enzo",
+            "pointFactor": 1.4,
+            "price": {
+                "type": 0,
+                "amount": 50000
+            },
+            "costs": {
+                "engine": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "transmission": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "steering": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "brakes": {
+                    "type": 0,
+                    "amount": 2500
+                },
+                "body": {
+                    "type": 0,
+                    "amount": 3000
+                },
+                "rim": {
+                    "type": 0,
+                    "amount": 3000
+                },
+                "window": {
+                    "type": 0,
+                    "amount": 3000
+                },
+                "suspension": {
+                    "type": 0,
+                    "amount": 3000
+                }
+            },
+            "rimIndex": 6,
+            "axles": {
+                "front": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                },
+                "rear": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                }
+            },
+            "upgrades": {
+                "engine": 0,
+                "transmission": 0,
+                "steering": 0,
+                "brakes": 0
+            },
+            "upgradeIncrements": {
+                "engine": 75,
+                "transmission": 0.04,
+                "steering": 0.04,
+                "brakes": 450
+            },
+            "specifications": {
+                "engineTorque": 750,
+                "transmission": 0.3,
+                "steering": 0.6,
+                "brakeTorque": 4750
+            },
+            "visual": {
+                "body": {
+                    "color": "AB0500",
+                    "tint": 0.8
+                },
+                "bodyDetail": {
+                    "color": "",
+                    "tint": 0
+                },
+                "rim": {
+                    "color": "676767",
+                    "tint": 0.5
+                },
+                "window": {
+                    "color": "1E1E1E",
+                    "tint": 0.7
+                },
+                "texturePath": "",
+                "decals": []
+            }
+        },
+        {
+            "id": "03",
+            "brand": "McLaren",
+            "model": "P1",
+            "chasisName": "mclaren-p1",
+            "prefabName": "mclaren-p1",
+            "pointFactor": 1.5,
+            "price": {
+                "type": 0,
+                "amount": 100000
+            },
+            "costs": {
+                "engine": {
+                    "type": 0,
+                    "amount": 5000
+                },
+                "transmission": {
+                    "type": 0,
+                    "amount": 5000
+                },
+                "steering": {
+                    "type": 0,
+                    "amount": 5000
+                },
+                "brakes": {
+                    "type": 0,
+                    "amount": 5000
+                },
+                "body": {
+                    "type": 0,
+                    "amount": 10000
+                },
+                "rim": {
+                    "type": 0,
+                    "amount": 10000
+                },
+                "window": {
+                    "type": 0,
+                    "amount": 10000
+                },
+                "suspension": {
+                    "type": 0,
+                    "amount": 10000
+                }
+            },
+            "rimIndex": 7,
+            "axles": {
+                "front": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                },
+                "rear": {
+                    "suspensionDistance": 0.2,
+                    "wheelCamber": 0,
+                    "wheelOffset": 0
+                }
+            },
+            "upgrades": {
+                "engine": 0,
+                "transmission": 0,
+                "steering": 0,
+                "brakes": 0
+            },
+            "upgradeIncrements": {
+                "engine": 100,
+                "transmission": 0.04,
+                "steering": 0.04,
+                "brakes": 500
+            },
+            "specifications": {
+                "engineTorque": 900,
+                "transmission": 0.25,
+                "steering": 0.7,
+                "brakeTorque": 5000
+            },
+            "visual": {
+                "body": {
+                    "color": "CA3B00",
+                    "tint": 0.7
+                },
+                "bodyDetail": {
+                    "color": "2E2E2E",
+                    "tint": 0.8
+                },
+                "rim": {
+                    "color": "676767",
+                    "tint": 0.5
+                },
+                "window": {
+                    "color": "1E1E1E",
+                    "tint": 0.7
+                },
+                "texturePath": "",
+                "decals": []
+            }
+        }
+    ]
+}
